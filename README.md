@@ -27,6 +27,7 @@
   * `php artisan key:generate`
   * `php artisan storage:link`
   * `php artisan migrate`
+  * `php artisan db:seed`
   * `php artisan serve`
 * Now the project's source code is available on your system ready to go, you can reach it at this address in the browser:
   * http://127.0.0.1:8000
